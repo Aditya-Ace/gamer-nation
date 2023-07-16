@@ -1,7 +1,9 @@
+import Heading from '@/components/Heading'
+
 export default function EldenRingPage() {
 	return (
 		<section>
-			<h1>Elden Ring</h1>
+			<Heading>Elden Ring</Heading>
 			<p>Reviews for Elden Ring</p>
 		</section>
 	)

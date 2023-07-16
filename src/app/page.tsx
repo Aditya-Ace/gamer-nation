@@ -1,7 +1,8 @@
+import Heading from '../components/Heading'
 export default function Home() {
 	return (
 		<section>
-			<h1>The Gamer&apos;s Nation</h1>
+			<Heading>The Gamer&apos;s Nation</Heading>
 			<p>One Place for all your gaming queries.</p>
 		</section>
 	)

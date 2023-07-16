@@ -1,7 +1,9 @@
+import Heading from '@/components/Heading'
+
 export default function HogwartsLegacyPage() {
 	return (
 		<section>
-			<h1>Hogwarts Legacy</h1>
+			<Heading>Hogwarts Legacy</Heading>
 			<p>Reviews for Hogwarts Legacy</p>
 		</section>
 	)
